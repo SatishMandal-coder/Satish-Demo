@@ -1,2 +1,2 @@
 # Satish-Demo
-This is Demo for Git and Github class 
+This is Demo for Git & Github class.
